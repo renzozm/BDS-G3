@@ -1,0 +1,8 @@
+# AGREGAR CAMBIOS A STAGING AREA
+## git add .
+
+# GUARDAR CAMBIOS EN EL REPOSITORIO LOCAL
+## git commit -m "Comentario"
+
+# VER CAMBIOS
+## git log
